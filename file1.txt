@@ -1,2 +1,2 @@
 
-Hello, this file i have created to check the branch tagging in GIT. 
+Hello, this file i have created to check the branch tagging in GIT. Updated file to v 2.0.2
